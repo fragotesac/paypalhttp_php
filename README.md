@@ -1,3 +1,5 @@
+This was fork from https://github.com/paypal/paypalhttp_php
+
 ## PayPal HttpClient
 
 PayPalHttp is a generic HTTP Client.
